@@ -1,7 +1,3 @@
-# Inventor Kit Experiments
-
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
 ## Instructions ##
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
