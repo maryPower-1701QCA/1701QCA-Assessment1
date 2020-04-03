@@ -11,11 +11,10 @@
 Guitar
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+<img width="538" alt="Screen Shot 2020-04-03 at 11 20 02 am" src="https://user-images.githubusercontent.com/62127270/78314498-774be800-759d-11ea-9c9a-0aaaf3a86d41.png">
 
-(Insert a caption here)
+This is a version of the microbit guitar project that I made. Instead of doing a trumpet, I made a trumpet out of cardboard and paint. I chose the trumpet because I had been playing trumpet for 8 years at school, so I am very familiar with it. 
 
 #### Reflection ####
 
