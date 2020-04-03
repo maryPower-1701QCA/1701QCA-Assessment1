@@ -102,7 +102,7 @@ This project is related to mine because you have to press a button to make the r
 
 ## Process documentation ##
 
-*Materials: Microbit, headphones, 4 bobby pins, cardboard, trumpet paper template, acrylic paint, tape, battery pack.
+*Materials: Microbit, headphones, 4 bobby pins, cardboard, trumpet paper template, acrylic paint, tape, battery pack.*
 
 ![Image](unnamed.jpg)
 Paper template used for the cardboard. 
